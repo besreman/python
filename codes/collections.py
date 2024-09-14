@@ -40,3 +40,8 @@ print(g2)
 print("Group 3:")
 #display the 3rd group
 print(g3)
+
+
+# list slicing
+cart = ['lamp', 'candles', 'chair', 'carpet']
+print(cart[:3])
