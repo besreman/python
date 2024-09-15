@@ -45,3 +45,13 @@ print(g3)
 # list slicing
 cart = ['lamp', 'candles', 'chair', 'carpet']
 print(cart[:3])
+
+
+# list comprehension.
+
+nums = []
+
+for x in range(1,51):
+  nums.append(x)
+
+print(nums)
