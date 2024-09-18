@@ -1,3 +1,4 @@
+# tertiary operator is an operator that checks certain condition and returns in accordance to given choices for success and failures.
 x = true if true else false
 print(x)
 
